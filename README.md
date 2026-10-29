@@ -2,7 +2,7 @@
 
 Multi-agent system that ingests transactions/documents, performs continuous monitoring, runs investigations (entity linking, sanctions/watchlist checks, pattern analysis), generates SAR-style reports/alerts, and routes only high-risk cases to humans.
 
-> Built per your Project2-req.pdf: Transaction Monitoring + basic KYC doc verification MVP with governance, audit, and human-in-the-loop.
+ Transaction Monitoring + basic KYC doc verification MVP with governance, audit, and human-in-the-loop.
 
 The commands below run the **MVP now** local stack. Bank deployment requirements are the **Enterprise target** in [PRD.md](PRD.md) (Enterprise users and scope, Enterprise requirements) and [ARCHITECTURE.md](ARCHITECTURE.md) (Deployment, Security). `docker-compose.yml` is the local development stack.
 
