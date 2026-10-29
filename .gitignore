@@ -1,0 +1,12 @@
+.env
+.venv/
+.pytest_cache/
+**/__pycache__/
+**/*.pyc
+frontend/node_modules/
+frontend/.next/
+data/local_db/
+data/audit/
+data/vector_store/
+data/uploads/
+backend/evals/results.json
