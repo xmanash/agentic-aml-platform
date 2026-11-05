@@ -1,4 +1,4 @@
-# Agentic AML — End-to-End Investigation Platform
+# Agentic AML — End-to-End Investigation (Transaction Monitoring + basic KYC doc verification ) Platform
 
 Multi-agent system that ingests transactions/documents, performs continuous monitoring, runs investigations (entity linking, sanctions/watchlist checks, pattern analysis), generates SAR-style reports/alerts, and routes only high-risk cases to humans.
 
